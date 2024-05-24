@@ -1,0 +1,6 @@
+C:\Users\USER\source\repos\SEWAMOBIL\SEWAMOBIL\x64\Debug\SEWAMOBIL.vcxproj.AssemblyReference.cache
+C:\Users\USER\source\repos\SEWAMOBIL\SEWAMOBIL\x64\Debug\SEWAMOBIL.Login.resources
+C:\Users\USER\source\repos\SEWAMOBIL\SEWAMOBIL\x64\Debug\SEWAMOBIL.vcxproj.GenerateResource.cache
+C:\Users\USER\source\repos\SEWAMOBIL\SEWAMOBIL\x64\Debug\SEWAMOBIL.PilihMobil.resources
+C:\Users\USER\source\repos\SEWAMOBIL\SEWAMOBIL\x64\Debug\SEWAMOBIL.DetailSewa.resources
+C:\Users\USER\source\repos\SEWAMOBIL\SEWAMOBIL\x64\Debug\SEWAMOBIL.FormPembayaran.resources
